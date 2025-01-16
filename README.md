@@ -11,7 +11,7 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jaqueline-v-moreira">
-        <img 
+         <img 
             alt="Linked in" 
             title="Check it out"
             width="30px" 
@@ -21,11 +21,11 @@
     </a>
     <a href="mailto:moreirajq@gmail.com?">
         <img 
-            alt="gmail" 
-            title="Mail me"
-            width="30px" 
-            style="padding-right: 10px;"  
-            src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"
+           alt="gmail" 
+           title="Mail me"
+           width="30px" 
+           style="padding-right: 10px;"  
+           src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"
         />
     </a> 
     <a href="https://api.whatsapp.com/send?phone=5511971334265">
