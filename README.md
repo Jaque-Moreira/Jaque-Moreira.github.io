@@ -136,6 +136,7 @@ Applied Mathematics to Life (dec 2019)
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" 
 />
+</p>
 <br/>
 
 ## Projects
