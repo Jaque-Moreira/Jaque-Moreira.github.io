@@ -34,7 +34,7 @@
             title="let's chat"
             width="30px" 
             style="padding-right: 10px;"  
-            src="https://th.bing.com/th/id/R.85becb35e8864e42a5796fd8e240fbfb?rik=TqV4Uo4fOZoTQg&riu=http%3a%2f%2fpngimg.com%2fuploads%2fwhatsapp%2fwhatsapp_PNG21.png%3fi%3d1&ehk=xD%2fo%2fmwrZT1%2fU7NQMpApFGMqe0mlFCp5Tf5G8U0df%2bc%3d&risl=&pid=ImgRaw&r=0"
+            src="https://th.bing.com/th/id/R.85becb35e8864e42a5796fd8e240fbfb?rik=TqV4Uo4fOZoTQg&riu=http%3a%2f%2fpngimg.com%2fuploads%2fwhatsapp%2fwhatsapp_PNG21.png%3fi%3d1&ehk=xD%2fo%2fmwrZT1%2fU7NQMpApFGMqe0mlFCp5Tf5G8U0df%2bc%3d&risl=&pid=ImgRaw&r=0""
         />
 </
 
