@@ -2,13 +2,22 @@
 **`Data Analyst & Statistician`**
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/jaqueline-v-moreira">
+    <a href="https://github.com/Jaque-Moreira">
         <img 
             alt="Linked in" 
             title="Check it out"
             width="30px" 
             style="padding-right: 10px;"  
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/jaqueline-v-moreira">
+        <img 
+            alt="github" 
+            title="Check it out"
+            width="30px" 
+            style="padding-right: 10px;"  
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
         />
     </a>
     <a href="mailto:moreirajq@gmail.com?">
@@ -128,7 +137,6 @@ Applied Mathematics to Life (dec 2019)
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" 
 />
-</p>
 <br/>
 
 ## Projects
