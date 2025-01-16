@@ -41,12 +41,12 @@
 ---
 ## Education
 
-M.B.A., Data Science and Analytics | EASE BRASIL (apr 2023)  
-B.S., Statistics | Anhembi Morumbi (jun 2025)  
-B.S., Construction Technology |  FATEC São Paulo (jun 2022)
+-M.B.A., Data Science and Analytics | EASE BRASIL (apr 2023)  
+-B.S., Statistics | Anhembi Morumbi (jun 2025)  
+-B.S., Construction Technology |  FATEC São Paulo (jun 2022)
 
 ## Work Experience
-Data Analyst Intern | Thymos Energia (feb 2022 - apr 2023)
+-Data Analyst Intern | Thymos Energia (feb 2022 - apr 2023)
 
 I interned in the market research department of an energy consulting, where I assisted in the development of reports, quotations, and client presentations. I was also involved in managing and updating spreadsheets, and contributed to statistical analyses and forecasts generated through Newave, Decomp, and Dessem models. This experience provided me with valuable exposure to data analysis and consulting, while enhancing my skills in critical analysis, interpersonal communication, and project management.
 
