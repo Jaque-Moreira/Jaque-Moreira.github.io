@@ -1,3 +1,44 @@
+<img 
+    align="right" 
+    alt="Rstudio"
+    title="Rstudio" 
+    width="150px" 
+    style="padding-right: 30px;" 
+    src="https://i0.wp.com/conre-1.org.br/wp-content/uploads/2016/09/simbolo-estatistica.png?w=382&ssl=1" 
+/> 
+# 👩🏻‍💻 Jaqueline Moreira
+**`Data Analyst & Statistician`**
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/jaqueline-v-moreira">
+        <img 
+            alt="Linked in" 
+            title="Check it out"
+            width="30px" 
+            style="padding-right: 10px;"  
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+        />
+    </a>
+    <a href="mailto:moreirajq@gmail.com?">
+        <img 
+            alt="gmail" 
+            title="Mail me"
+            width="30px" 
+            style="padding-right: 10px;"  
+            src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"
+        />
+    </a> 
+    <a href="https://api.whatsapp.com/send?phone=5511971334265">
+        <img 
+            alt="Whatsapp" 
+            title="let's chat"
+            width="30px" 
+            style="padding-right: 10px;"  
+            src="https://th.bing.com/th/id/R.85becb35e8864e42a5796fd8e240fbfb?rik=TqV4Uo4fOZoTQg&riu=http%3a%2f%2fpngimg.com%2fuploads%2fwhatsapp%2fwhatsapp_PNG21.png%3fi%3d1&ehk=xD%2fo%2fmwrZT1%2fU7NQMpApFGMqe0mlFCp5Tf5G8U0df%2bc%3d&risl=&pid=ImgRaw&r=0%22"
+        />
+    </a>
+</p>
+
 ## Education  
 
 M.B.A., Data Science and Analytics | EASE BRASIL (apr 2023)  
