@@ -1,11 +1,3 @@
-<img 
-    align="right" 
-    alt="Rstudio"
-    title="Rstudio" 
-    width="150px" 
-    style="padding-right: 30px;" 
-    src="https://i0.wp.com/conre-1.org.br/wp-content/uploads/2016/09/simbolo-estatistica.png?w=382&ssl=1" 
-/> 
 # 👩🏻‍💻 Jaqueline Moreira
 **`Data Analyst & Statistician`**
 
