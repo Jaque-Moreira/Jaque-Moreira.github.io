@@ -2,7 +2,7 @@
 **`Data Analyst & Statistician`**
 
 <p align="left">
-    <a href="https://github.com/Jaque-Moreira">
+    <a href="https://www.linkedin.com/in/jaqueline-v-moreira">
         <img 
             alt="Linked in" 
             title="Check it out"
@@ -11,7 +11,7 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
         />
     </a>
-    <a href="https://www.linkedin.com/in/jaqueline-v-moreira">
+    <a href="https://github.com/Jaque-Moreira">
         <img 
             alt="github" 
             title="Check it out"
