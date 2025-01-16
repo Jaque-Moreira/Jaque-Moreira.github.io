@@ -11,7 +11,7 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jaqueline-v-moreira">
-         <img 
+        <img 
             alt="Linked in" 
             title="Check it out"
             width="30px" 
@@ -21,11 +21,11 @@
     </a>
     <a href="mailto:moreirajq@gmail.com?">
         <img 
-           alt="gmail" 
-           title="Mail me"
-           width="30px" 
-           style="padding-right: 10px;"  
-           src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"
+            alt="gmail" 
+            title="Mail me"
+            width="30px" 
+            style="padding-right: 10px;"  
+            src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"
         />
     </a> 
     <a href="https://api.whatsapp.com/send?phone=5511971334265">
@@ -34,18 +34,19 @@
             title="let's chat"
             width="30px" 
             style="padding-right: 10px;"  
-            src="https://th.bing.com/th/id/R.85becb35e8864e42a5796fd8e240fbfb?rik=TqV4Uo4fOZoTQg&riu=http%3a%2f%2fpngimg.com%2fuploads%2fwhatsapp%2fwhatsapp_PNG21.png%3fi%3d1&ehk=xD%2fo%2fmwrZT1%2fU7NQMpApFGMqe0mlFCp5Tf5G8U0df%2bc%3d&risl=&pid=ImgRaw&r=0""
-        />
+            src="https://th.bing.com/th/id/R.85becb35e8864e42a5796fd8e240fbfb?rik=TqV4Uo4fOZoTQg&riu=http%3a%2f%2fpngimg.com%2fuploads%2fwhatsapp%2fwhatsapp_PNG21.png%3fi%3d1&ehk=xD%2fo%2fmwrZT1%2fU7NQMpApFGMqe0mlFCp5Tf5G8U0df%2bc%3d&risl=&pid=ImgRaw&r=0%22"
+         />
+    </a>
 </
 
-## Education
+## Education  
 
--M.B.A., Data Science and Analytics | EASE BRASIL (apr 2023)  
--B.S., Statistics | Anhembi Morumbi (jun 2025)  
--B.S., Construction Technology |  FATEC São Paulo (jun 2022)
+M.B.A., Data Science and Analytics | EASE BRASIL (apr 2023)  
+B.S., Statistics | Anhembi Morumbi (jun 2025)  
+B.S., Construction Technology |  FATEC São Paulo (jun 2022)
 
 ## Work Experience
--Data Analyst Intern | Thymos Energia (feb 2022 - apr 2023)
+Data Analyst Intern | Thymos Energia (feb 2022 - apr 2023)
 
 I interned in the market research department of an energy consulting, where I assisted in the development of reports, quotations, and client presentations. I was also involved in managing and updating spreadsheets, and contributed to statistical analyses and forecasts generated through Newave, Decomp, and Dessem models. This experience provided me with valuable exposure to data analysis and consulting, while enhancing my skills in critical analysis, interpersonal communication, and project management.
 
@@ -60,7 +61,7 @@ Google Professional Data Analytics Certificate (jan 2024)
 
 
 Introduction To Computer Science and Programming Using Python (oct 2021)  
-*MIT -  Massachusetts Institute of Technology, taken through the edX platform.*  
+*MIT -  Massachusetts Institute of Technology, taken through the edX platform.* 
 [Certification](https://courses.edx.org/certificates/ca3b3e6e3b184074b0903dde0198fec6)
 
 Introduction To Probability (oct 2021)    
