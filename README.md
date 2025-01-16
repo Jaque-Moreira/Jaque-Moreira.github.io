@@ -61,7 +61,7 @@ Google Professional Data Analytics Certificate (jan 2024)
 
 
 Introduction To Computer Science and Programming Using Python (oct 2021)  
-*MIT -  Massachusetts Institute of Technology, taken through the edX platform.* 
+*MIT -  Massachusetts Institute of Technology, taken through the edX platform.*  
 [Certification](https://courses.edx.org/certificates/ca3b3e6e3b184074b0903dde0198fec6)
 
 Introduction To Probability (oct 2021)    
